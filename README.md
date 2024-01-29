@@ -1,4 +1,5 @@
 ### Hey there 👋 
 I am an embedded system enthusiast | Minecraft java mod developer 
 
-[![info](https://github-readme-stats.vercel.app/api?username=robcholz&count_private=true&show_icons=true&line_height=20)](https://github.com/anuraghazra/github-readme-stats)
+[![codes](https://api.githubtrends.io/user/svg/robcholz/langs?time_range=one_year&include_private=True&theme=classic)](https://api.githubtrends.io/user/svg/robcholz/langs?time_range=one_year&include_private=True&theme=classic)
+[![repositorys](https://api.githubtrends.io/user/svg/robcholz/repos?time_range=one_year&include_private=True&theme=classic)](https://api.githubtrends.io/user/svg/robcholz/repos?time_range=one_year&include_private=True&theme=classic)
